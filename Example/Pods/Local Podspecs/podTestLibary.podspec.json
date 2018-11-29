@@ -1,0 +1,22 @@
+{
+  "name": "podTestLibary",
+  "version": "0.1.0",
+  "summary": "A short description of podTestLibary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zouhuanlin/podTestLibary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zouhuanlin": "zouhuanlin@51xianqu.net"
+  },
+  "source": {
+    "git": "https://github.com/zouhuanlin/podTestLibary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "podTestLibary/Classes/**/*"
+}
